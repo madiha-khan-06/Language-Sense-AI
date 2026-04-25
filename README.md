@@ -76,8 +76,8 @@
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/Ashita-31/language-detection.git
-cd language-detection
+git clone https://github.com/madiha-khan-06/Language-Sense-AI.git
+cd Language-Sense-AI
 pip install -r requirements.txt
 ```
 

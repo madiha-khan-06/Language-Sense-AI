@@ -25,6 +25,10 @@
 
 ## 🎥 Demo Preview
 
+<img width="1894" height="737" alt="Screenshot 2026-04-24 145712" src="https://github.com/user-attachments/assets/443e502b-2969-4e97-955c-152baa733e64" />
+
+---
+<img width="1836" height="894" alt="Screenshot 2026-04-24 145832" src="https://github.com/user-attachments/assets/10820f0c-6cc4-4ccb-8bff-51c9ad0e957e" />
 
 ---
 
